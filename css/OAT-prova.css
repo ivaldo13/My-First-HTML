@@ -1,0 +1,44 @@
+    head{
+        color: gray;
+    }
+
+    body{
+    margin: auto;
+    }
+
+    form{
+    border: 1px solid black;
+    width: 300px;
+    height: 400px;
+    margin-left: 600px;
+    margin-top: 150px;
+    border-radius: 5px;
+    }
+
+    .radio-top{
+        margin-left: 20px;
+        margin-bottom: 10px;
+    }
+
+    .label-top{
+        margin-left: 20px;
+    }
+
+    .text-top{
+        margin-left: 20px;
+        margin-bottom: 5px;
+    }
+
+    .select-top{
+        margin-left: 20px;
+    }
+
+    .checkbox-top{
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+
+    .submit-top{
+        margin-left: 20px;
+        margin-top: 10px;
+    }
